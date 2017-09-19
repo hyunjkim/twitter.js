@@ -1,1 +1,0 @@
-const nodeRestful = require('node-restful');
